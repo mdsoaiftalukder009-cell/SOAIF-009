@@ -1,0 +1,28 @@
+{
+  "uids": [
+    {
+      "uid": "14192235111",
+      "banned": false,
+      "paused": false,
+      "expires_at": "2025-12-31T23:59:59Z"
+    },
+    {
+      "uid": "987654321",
+      "banned": true,
+      "paused": false,
+      "expires_at": null
+    },
+    {
+      "uid": "555666777",
+      "banned": false,
+      "paused": true,
+      "expires_at": null
+    },
+    {
+      "uid": "111222333",
+      "banned": false,
+      "paused": false,
+      "expires_at": "2024-01-01T00:00:00Z"
+    }
+  ]
+}
